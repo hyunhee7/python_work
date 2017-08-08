@@ -1,0 +1,5 @@
+#-*- coding: utf-8 -*-
+
+# str type 데이터를 만들어서 참조 값을 변수에 담기
+
+myComment = "abcdeee"

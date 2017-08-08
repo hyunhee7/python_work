@@ -1,0 +1,9 @@
+MODULES_MANAGER_V2
+test.Hello|C:\ncs03\python_work\Hello\test\Hello.py
+test.Step01_DataType|C:\ncs03\python_work\Hello\test\Step01_DataType.py
+test.Step02_str|C:\ncs03\python_work\Hello\test\Step02_str.py
+test.Step03_Function|C:\ncs03\python_work\Hello\test\Step03_Function.py
+test.Step03_Function2|C:\ncs03\python_work\Hello\test\Step03_Function2.py
+test.Step03_Function3|C:\ncs03\python_work\Hello\test\Step03_Function3.py
+test.Step03_Function4|C:\ncs03\python_work\Hello\test\Step03_Function4.py
+test.__init__|C:\ncs03\python_work\Hello\test\__init__.py

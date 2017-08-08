@@ -1,0 +1,35 @@
+#-*- coding: utf-8 -*-
+
+'''
+    - list type
+    1. 순서가 있다
+    2. 여러 type 의 데이터를 저장할 수 있다.
+    3. 값 변경 가능
+'''
+
+a=[1,2,3]
+b=[10, True, "abcd"]
+c=[10, 20, 30]
+d=a
+
+# 같은 참조값 확인!
+print "a id:", id(a)
+print "d id:", id(d)
+
+print "a[0] :", a[0]
+print "a[1] :", a[1]
+print "a[2] :", a[2]
+
+family=[u"엄마",u"아빠",u"나"]
+
+print u"가족 구성원 목록:", family[0], family[1], family[2]
+print u"가족 구성원 수 :", len(family)
+
+# list type 에 데이터 추가
+family.append(u"남동생")
+family.append(u"여동생")
+
+print "추가된 구성원 :", family[3], family[4]
+print "가족 구성원 수:",
+
+print "Step04_list 모듈의 실행순서가 종료 됩니다"

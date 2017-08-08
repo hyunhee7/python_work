@@ -1,0 +1,19 @@
+#-*- coding: utf-8 -*-
+
+'''
+    - list type
+    1. 순서가 있다
+    2. 여러 type 의 데이터를 저장할 수 있다.
+    3. 값 변경 가능
+'''
+
+a=[1,2,3]
+b=[10, True, "abcd"]
+c=[10, 20, 30]
+d=a
+
+# 같은 참조값 확인!
+print "a id:", id(a)
+print "d id:", id(d)
+
+print "Step04_list 모듈의 실행순서가 종료 됩니다"

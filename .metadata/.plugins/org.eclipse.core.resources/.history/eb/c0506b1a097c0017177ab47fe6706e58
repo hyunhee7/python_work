@@ -1,0 +1,7 @@
+#-*- coding: utf-8 -*-
+
+# 문자열 format 만들기
+# 개행하고 싶을 땐 역슬레시
+result = "번호:{} 이름:{} 주소:{}".format(1, u"김구라", u"노량진")
+
+print result
