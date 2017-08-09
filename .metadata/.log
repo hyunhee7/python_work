@@ -1403,3 +1403,124 @@ UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordin
     expression = str(expression.replace('@LINE@', '\n'))
 UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
 
+!SESSION 2017-08-09 09:45:31.361 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-09 09:45:46.048
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-09 09:45:46.079
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-09 09:45:46.095
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-09 09:45:46.095
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-09 09:45:46.126
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-09 09:45:46.126
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-08-09 09:45:50.985
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.python.pydev.shared_core 4 4 2017-08-09 09:45:55.942
+!MESSAGE The python client still hasn't connected back to the eclipse java vm (will retry...)
+!STACK 0
+java.lang.RuntimeException: The python client still hasn't connected back to the eclipse java vm (will retry...)
+	at org.python.pydev.core.log.Log.log(Log.java:54)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.startIt(AbstractShell.java:334)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:232)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:165)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.getServerShell(AbstractShell.java:222)
+	at org.python.pydev.editor.PyEdit$2.run(PyEdit.java:560)
+
+!ENTRY org.eclipse.jface 2 0 2017-08-09 09:46:10.440
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-08-09 09:46:10.441
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@abc771e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(io.emmet.eclipse.commands.match_pair_outward,Match Pair Outward,
+		,
+		Category(io.emmet.eclipse.commands.category,Emmet,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e0630cc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-09 10:35:31.259
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-09 10:35:31.260
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 10:37:16.290
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 11:34:51.002
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 11:34:51.002
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 11:53:56.901
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 11:53:56.901
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 12:12:15.244
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 12:12:15.244
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 14:38:50.999
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 14:38:51.000
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 15:04:24.269
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 15:04:24.318
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 15:43:37.686
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 15:43:37.686
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 15:55:18.657
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 15:55:18.661
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 16:14:05.779
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-08-09 16:14:05.779
+!MESSAGE Non IFiles not supported yet

@@ -1,38 +1,75 @@
 -- VERSION_4
 -- START DISKCACHE_2
 C:\ncs03\python_work\.metadata\.plugins\org.eclipse.core.resources\.projects\Hello\com.python.pydev.analysis\v2_indexcache
-test.Hello|1502169987057365000|C:\ncs03\python_work\Hello\test\Hello.py
+test.Step08_operator|1502248335017952000|C:\ncs03\python_work\Hello\test\Step08_operator.py
+test.Step09_for|1502260886343932000|C:\ncs03\python_work\Hello\test\Step09_for.py
 test.Step02_str|1502172357127120000|C:\ncs03\python_work\Hello\test\Step02_str.py
 test.Step03_Function4|1502176734345216000|C:\ncs03\python_work\Hello\test\Step03_Function4.py
+test.Step06_dict|1502247455327637000|C:\ncs03\python_work\Hello\test\Step06_dict.py
 test.Step03_Function2|1502175383602496000|C:\ncs03\python_work\Hello\test\Step03_Function2.py
 test.Step03_Function3|1502175875573836000|C:\ncs03\python_work\Hello\test\Step03_Function3.py
+test.Step05_tuple|1502245022313476000|C:\ncs03\python_work\Hello\test\Step05_tuple.py
+test.Step04_list|1502180241304284000|C:\ncs03\python_work\Hello\test\Step04_list.py
+test.Step07_set|1502248027014336000|C:\ncs03\python_work\Hello\test\Step07_set.py
+test.Step03_Function|1502173369658295000|C:\ncs03\python_work\Hello\test\Step03_Function.py
+test.Hello|1502169987057365000|C:\ncs03\python_work\Hello\test\Hello.py
+test.Step08_if|1502258493916092000|C:\ncs03\python_work\Hello\test\Step08_if.py
+test.Step11_input|1502262554396339000|C:\ncs03\python_work\Hello\test\Step11_input.py
+test.Step10_while|1502261382895333000|C:\ncs03\python_work\Hello\test\Step10_while.py
 test.__init__|1502169896138165000|C:\ncs03\python_work\Hello\test\__init__.py
 test.Step01_DataType|1502171085668202000|C:\ncs03\python_work\Hello\test\Step01_DataType.py
-test.Step03_Function|1502173369658295000|C:\ncs03\python_work\Hello\test\Step03_Function.py
 -- END DISKCACHE
 -- START DICTIONARY
-6
-1=test.Step02_str
-4=test.Step03_Function4
-5=test.Step03_Function2
-6=test.Step03_Function3
-2=test.Step01_DataType
-3=test.Step03_Function
+15
+10=test.Step08_operator
+11=test.Step09_for
+7=test.Step02_str
+13=test.Step03_Function4
+4=test.Step06_dict
+14=test.Step03_Function2
+15=test.Step03_Function3
+2=test.Step05_tuple
+1=test.Step04_list
+6=test.Step07_set
+12=test.Step03_Function
+8=test.Step08_if
+5=test.Step11_input
+3=test.Step10_while
+9=test.Step01_DataType
 -- END DICTIONARY
 -- START TREE 1
-12
-a|0|
-b|0|
-c|0|
-d|0|
-fam|0|
-ise|2|isEqual2!11@isEqual!11@
-myc|1|myComment!11@
-myf|1|myFunction!18@
-nam|3|name3!11@name1!11@name2!11@
-num|0|
-res|5|result3!27@result!35@result1!27@result4!27@result2!27@
-tes|13|test4!26@test8!26@test5!26@test2!42@test!42@test2!50@test6!26@test!50@test1!26@test!34@test3!26@test7!26@test2!26@
+31
+a|2|a!11@a!19@
+b|1|b!11@
+c|1|c!11@
+cou|2|count1!27@count2!27@
+d|1|d!11@
+dic|2|dict1!35@dict2!35@
+fam|1|family!11@
+fir|1|first!19@
+fri|1|friends!11@
+inp|1|inputNum!43@
+int|1|intersectionResult!51@
+ise|2|isEqual2!59@isEqual!59@
+ism|1|isMan!67@
+isw|1|isWait!67@
+jum|1|jumsu!67@
+lis|4|list4!51@list1!19@list3!51@list1!51@
+min|1|minusResult!51@
+msg|2|msg1!43@msg2!43@
+myc|1|myComment!59@
+myf|2|myFriend!19@myFunction!74@
+mys|0|
+nam|5|name3!59@name1!59@name!83@name2!59@names!91@
+num|12|numbers2!11@nums1_1!19@nums3!19@num2!19@nums1!19@num!83@num1!43@numbers!11@nums!19@nums2!19@num!67@num1!19@
+reg|0|
+res|10|result3!99@result!107@result1!99@result2!99@result2!19@result2!67@result!43@result!67@result!19@result4!99@
+sec|1|second!19@
+set|4|set4!51@set2!51@set3!51@set1!51@
+tes|13|test4!98@test8!98@test5!98@test2!114@test!114@test2!122@test6!98@test!122@test1!98@test!106@test3!98@test7!98@test2!98@
+tmp|1|tmp!35@
+tup|3|tuple2!19@tuple1!51@tuple1!19@
+uni|1|unionResult!51@
 -- END TREE
 -- START TREE 2
 0

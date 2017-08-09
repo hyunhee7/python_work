@@ -6,4 +6,14 @@ test.Step03_Function|C:\ncs03\python_work\Hello\test\Step03_Function.py
 test.Step03_Function2|C:\ncs03\python_work\Hello\test\Step03_Function2.py
 test.Step03_Function3|C:\ncs03\python_work\Hello\test\Step03_Function3.py
 test.Step03_Function4|C:\ncs03\python_work\Hello\test\Step03_Function4.py
+test.Step04_list|C:\ncs03\python_work\Hello\test\Step04_list.py
+test.Step05_tuple|C:\ncs03\python_work\Hello\test\Step05_tuple.py
+test.Step06_dict|C:\ncs03\python_work\Hello\test\Step06_dict.py
+test.Step07_set|C:\ncs03\python_work\Hello\test\Step07_set.py
+test.Step08_if|C:\ncs03\python_work\Hello\test\Step08_if.py
+test.Step08_operator|C:\ncs03\python_work\Hello\test\Step08_operator.py
+test.Step09_for|C:\ncs03\python_work\Hello\test\Step09_for.py
+test.Step10_while|C:\ncs03\python_work\Hello\test\Step10_while.py
+test.Step11_input|C:\ncs03\python_work\Hello\test\Step11_input.py
+test.Step12_RegExp|C:\ncs03\python_work\Hello\test\Step12_RegExp.py
 test.__init__|C:\ncs03\python_work\Hello\test\__init__.py

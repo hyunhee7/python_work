@@ -1,0 +1,11 @@
+#-*- coding: utf-8 -*-
+
+'''
+    1. list type 과 유사
+    2. 읽기 전용 (저장된 데이터 수정, 삭제 불가)
+    3. list 에 비해 속도가 빠르다
+'''
+
+tuple1=("one","two","three")
+
+print tuple1[2]
