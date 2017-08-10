@@ -1,0 +1,13 @@
+#-*- coding: utf-8 -*-
+'''
+            상속
+      class 클래스명(상속받을 클래스명):
+          pass
+'''
+class Phone(object):
+    #전화 거는 기능
+    def call(self):
+        print u"전화를 걸어요"
+
+if __name__ == '__main__':
+    pass

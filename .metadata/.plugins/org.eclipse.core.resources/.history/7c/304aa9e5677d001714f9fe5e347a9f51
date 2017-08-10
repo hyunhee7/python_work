@@ -1,0 +1,7 @@
+#-*- coding: utf-8 -*-
+
+# Step13_main.py
+import MyModule
+print "----"
+#print "MyModule.nick : ", MyModule.nick
+#MyModule.printNick()

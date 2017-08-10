@@ -1,0 +1,15 @@
+#-*- coding: utf-8 -*-
+'''
+    - decorator 를 class 로 정의하면 더 깔끔해진다.
+'''
+from symbol import decorator
+# decorator 역할을 할 class 정의하기
+class HelloBye:
+    pass
+
+@HelloBye
+def test1():
+    pass
+
+if __name__ == '__main__':
+    pass

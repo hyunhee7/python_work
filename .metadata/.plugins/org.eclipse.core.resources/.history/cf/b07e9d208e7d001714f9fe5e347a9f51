@@ -1,0 +1,10 @@
+#-*- coding: utf-8 -*-
+'''
+    - lambda 함수 익히기
+'''
+def printHi():
+    print "hi hi hi"
+
+if __name__ == '__main__':
+    # main 으로 실행했을 때 실행순서가 들어오는 곳
+    

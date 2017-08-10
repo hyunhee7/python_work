@@ -1,0 +1,28 @@
+#-*- coding: utf-8 -*-
+'''
+    - lambda 함수 익히기
+'''
+def printHi():
+    print "hi hi hi"
+
+def useFunction(f):
+    # 전달된 인자를 함수로 간주하고 함수 호출하기
+    f()
+    print u"useFunction() 함수가 리턴 합니다."
+
+if __name__ == '__main__':
+    # main 으로 실행했을 때 실행순서가 들어오는 곳
+    
+    # python 에서는 함수도 객체이므로 변수에 담을 수 있다.
+    
+    # 함수 호출
+    printHi()
+    # 함수를 참조해서 변수에 대입
+    a = printHi()
+    # 변수에 대입된 함수의 참조값을 이용해서 함수 호출 가능
+    a()
+    
+    print "-----------"
+    # 함수를 호출하면서 함수의 참조값 전달하기
+    useFunction(a)
+    

@@ -1,0 +1,26 @@
+#-*- coding: utf-8 -*-
+
+# tuple 타입 = args / # dict 타입 = kwargs
+# 어떤 인자의 형태도 받아줄 수 있는 함수
+def test(*args, **kwargs):
+    print args
+    print kwargs
+    print "--- test() ---"
+
+def auth(func):
+    def wrapper(*args, **kwargs):
+        print "auth !"
+        func(*args, **kwargs)
+    return wrapper
+
+@auth
+def updateUser():
+    print name,u"업데이트 합니다."
+@auth
+def deleteUser():
+    print name,u"삭제합니다"
+
+if __name__ == '__main__':
+
+    updateUser(name="gura")
+    deleteUser(name="monkey")

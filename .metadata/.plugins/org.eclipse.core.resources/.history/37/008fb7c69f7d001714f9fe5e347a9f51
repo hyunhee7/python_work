@@ -1,0 +1,6 @@
+#-*- coding: utf-8 -*-
+
+from deco.myDeco import HelloBye
+
+if __name__ == '__main__':
+    

@@ -1,0 +1,13 @@
+#-*- coding: utf-8 -*-
+
+class Car:
+    #필드(속성, 저장소)
+    name=u"소나타"
+    
+    #메소드(기능, 함수)
+    def drive:
+        print u"달려요"
+        
+
+    
+    

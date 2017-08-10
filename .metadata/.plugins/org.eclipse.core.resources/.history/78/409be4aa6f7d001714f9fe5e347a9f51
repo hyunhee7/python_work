@@ -1,0 +1,13 @@
+#-*- coding: utf-8 -*-
+
+class Car:
+    #필드 정의하기
+    company=None #제조사
+    name=None #이름
+    color=None #색상
+    
+    #생성자
+
+
+if __name__ == '__main__':
+    pass

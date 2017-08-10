@@ -1,0 +1,9 @@
+#-*- coding: utf-8 -*-
+'''
+    - lambda 함수 익히기
+'''
+def printHi():
+    print "hi hi hi"
+
+if __name__ == '__main__':
+    pass

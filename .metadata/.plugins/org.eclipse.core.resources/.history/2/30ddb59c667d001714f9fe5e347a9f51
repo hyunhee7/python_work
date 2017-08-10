@@ -1,0 +1,6 @@
+#-*- coding: utf-8 -*-
+
+nick="김구라"
+
+def print():
+    print "nick:", nick
