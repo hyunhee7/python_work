@@ -1,0 +1,6 @@
+#-*- coding: utf-8 -*-
+
+sample = u"a b c ddd    eee"
+result=re.split(r"[\t]+",sample)
+
+print result

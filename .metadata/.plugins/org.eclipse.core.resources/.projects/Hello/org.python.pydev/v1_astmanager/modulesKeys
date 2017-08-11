@@ -1,4 +1,6 @@
 MODULES_MANAGER_V2
+deco.__init__|C:\ncs03\python_work\Hello\deco\__init__.py
+deco.myDeco|C:\ncs03\python_work\Hello\deco\myDeco.py
 test.Hello|C:\ncs03\python_work\Hello\test\Hello.py
 test.MyModule|C:\ncs03\python_work\Hello\test\MyModule.py
 test.Step01_DataType|C:\ncs03\python_work\Hello\test\Step01_DataType.py
@@ -24,7 +26,18 @@ test.Step14_Example|C:\ncs03\python_work\Hello\test\Step14_Example.py
 test.Step15_Extends|C:\ncs03\python_work\Hello\test\Step15_Extends.py
 test.Step15_Extends2|C:\ncs03\python_work\Hello\test\Step15_Extends2.py
 test.Step16_Lambda|C:\ncs03\python_work\Hello\test\Step16_Lambda.py
+test.Step17_Decoration3|C:\ncs03\python_work\Hello\test\Step17_Decoration3.py
 test.Step17_Decorator|C:\ncs03\python_work\Hello\test\Step17_Decorator.py
 test.Step17_Decorator2|C:\ncs03\python_work\Hello\test\Step17_Decorator2.py
+test.Step17_Decorator4|C:\ncs03\python_work\Hello\test\Step17_Decorator4.py
+test.Step17_Except|C:\ncs03\python_work\Hello\test\Step17_Except.py
+test.Step18_File|C:\ncs03\python_work\Hello\test\Step18_File.py
+test.Step18_File2|C:\ncs03\python_work\Hello\test\Step18_File2.py
+test.Step19_DB_DELETE|C:\ncs03\python_work\Hello\test\Step19_DB_DELETE.py
+test.Step19_DB_INSERT|C:\ncs03\python_work\Hello\test\Step19_DB_INSERT.py
+test.Step19_DB_SELECT|C:\ncs03\python_work\Hello\test\Step19_DB_SELECT.py
+test.Step19_DB_SELECT2|C:\ncs03\python_work\Hello\test\Step19_DB_SELECT2.py
+test.Step19_DB_SELECT3|C:\ncs03\python_work\Hello\test\Step19_DB_SELECT3.py
+test.Step19_DB_UPDATE|C:\ncs03\python_work\Hello\test\Step19_DB_UPDATE.py
 test.YourModule|C:\ncs03\python_work\Hello\test\YourModule.py
 test.__init__|C:\ncs03\python_work\Hello\test\__init__.py

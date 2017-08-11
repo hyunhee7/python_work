@@ -1,0 +1,12 @@
+#-*- coding: utf-8 -*-
+import re
+import os
+
+sample = u"a b c ddd    eee"
+result=re.split(r"[\t]+",sample)
+
+print result
+
+cwd=os.getcwd()
+filePath=cwd+os.sep
+f=codecs.open(filePath+"")

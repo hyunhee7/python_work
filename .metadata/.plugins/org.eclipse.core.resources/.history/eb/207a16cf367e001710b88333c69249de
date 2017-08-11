@@ -1,0 +1,9 @@
+#-*- coding: utf-8 -*-
+import re
+
+sample = u"a b c ddd    eee"
+result=re.split(r"[\t]+",sample)
+
+print result
+
+cwd=os.getcwd()

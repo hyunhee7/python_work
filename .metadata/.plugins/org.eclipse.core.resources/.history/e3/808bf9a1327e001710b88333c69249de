@@ -1,0 +1,26 @@
+#-*- coding: utf-8 -*-
+import os
+import codecs
+
+print u"현재 작업 디렉토리:", os.getcwd()
+print u"현재 플렛폼의 파일 구분자:", os.sep
+
+try:
+    #읽어올 파일 경로 구성하기 (getCurrentWorkDirectory)
+    filePath = os.getcwd()+os.sep+"testFile.txt"
+    print filePath
+    #파일 열기 .open(파일경로, 모드, 인코딩)
+    f=codecs.open(filePath, "r", "utf-8") #읽기 모드
+    #텍스트 문서의 내용 읽어들이기
+    result=f.read()
+    print result
+    f.close()
+    
+    #파일을 만들어서 문자열 기록하기
+    letterPath=os.getcwd()+os.sep+"testFile2.txt"
+    letter=codecs.open(letterPath,"w","utf-8")
+    letter.write(u"To my Friend ~")
+    letter.close() #close() 하는 순간 파일이 만들어 진다.
+except Exception as e:
+    #예외가 발생했을 때 실행되는 블럭
+    print(e)

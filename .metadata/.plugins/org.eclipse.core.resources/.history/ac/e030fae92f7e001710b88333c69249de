@@ -1,0 +1,6 @@
+#-*- coding: utf-8 -*-
+import os
+
+print u"현재 작업 디렉트로:", os.getcwd()
+
+

@@ -1,0 +1,8 @@
+#-*- coding: utf-8 -*-
+
+import wx
+
+# wx.Frame 을 상속받은 클래스 정의하기
+
+if __name__ == '__main__':
+    pass

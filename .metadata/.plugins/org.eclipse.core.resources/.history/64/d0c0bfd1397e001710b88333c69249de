@@ -1,0 +1,36 @@
+#-*- coding: utf-8 -*-
+import re
+import os
+import codecs
+
+sample = u"a b c ddd    eee"
+result=re.split(r"[\t]+",sample)
+
+print result
+
+cwd=os.getcwd()
+filePath=cwd+os.sep
+filePath=cwd+os.sep+"testFile.txt"
+f=codecs.open(filePath,"r","utf-8")
+
+while True:
+    data=f.readline()
+    if data=="":
+        break #반복문 블럭 빠져 나오기
+    print data
+    
+# 위의 예제를 참고해서 검색어를 입력받아서
+inputKeyword=raw_input("검색할 동,면,리 입력:")
+decodedKeyword=inputKeyword.decode("utf-8")
+
+# 해당 검색어에 관련된 모든 주소를 출력해 보세요.
+filePath = os.getcwd()+os.sep+"zipcode.txt"
+f=codecs.open(filePath, "r", "utf-8")
+lines=f.readlines()
+keyword=inputKeyword
+
+for item in lines:
+    if(inpuyKeyword==item):
+        print item
+    
+    print item
