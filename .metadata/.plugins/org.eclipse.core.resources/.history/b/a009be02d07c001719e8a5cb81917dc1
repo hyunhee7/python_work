@@ -1,9 +1,0 @@
-#-*- coding: utf-8 -*-
-
-'''
-    - console 창으로 부터 사용자 입력 받기
-   
-    raw_input() 빌트인 메소드를 이용해서 문자열 입력 받기 
-'''
-from __builtin__ import raw_input
-msg1 = raw_input(u"메세지 입력:")

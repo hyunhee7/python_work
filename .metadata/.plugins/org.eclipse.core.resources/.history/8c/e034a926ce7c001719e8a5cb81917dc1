@@ -1,8 +1,0 @@
-#-*- coding: utf-8 -*-
-'''
-    - 반복문 while
-'''
-
-count1=0
-
-while count1<10

@@ -1,7 +1,0 @@
-#-*- coding: utf-8 -*-
-'''
-    - decorator 를 class 로 정의하면 더 깔끔해진다.
-'''
-
-if __name__ == '__main__':
-    pass

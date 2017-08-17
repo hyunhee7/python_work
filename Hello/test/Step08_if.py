@@ -49,7 +49,7 @@ else:
 isMan = True
 result = u"남자 입니다." if isMan else u"여자입니다."
 print "isMan :", result
-
+print type(result)
 result2 = None
 if isMan:
     result2=u"남자 입니다."

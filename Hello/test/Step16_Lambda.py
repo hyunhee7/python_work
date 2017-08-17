@@ -51,9 +51,8 @@ if __name__ == '__main__':
     
     # lambda 함수 만들어서 참조값 변수에 담기 
     myLam = lambda x, y: x*y
-    
-    print "myLam(10, 10) : ", myLam(10, 10)
-    
+    a=myLam(10, 10)
+    print "myLam(10, 10) : ", a
     
     
     

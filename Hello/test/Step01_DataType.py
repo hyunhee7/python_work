@@ -12,7 +12,7 @@
 # Data Type 확인하기
 print 1 # int type
 print 1+1 
-print type(1) 
+print type(2+0j) 
 
 print type(10.1) # float type
 

@@ -1,0 +1,20 @@
+#-*- coding: utf-8 -*-
+
+import wx
+
+class MyFrame(wx.Frame):
+    def __init__(self, parent, title):
+        super(MyFrame, self).__init__(parent, title=title,\
+                                      size=(300,500))
+        #생성자에서 UI 초기화 하는 메소드를 호출하는 구조로 만든다.
+        self.InitUI()
+        self.Center()
+        self.Show()
+    def InitUI(self):
+        # panel 객체 만들기
+        panel=wx.Panel(self)
+
+if __name__ == "__main__":
+    app=wx.App()
+    MyFrame(None, title="버튼 테스트")
+    app.MainLoop()

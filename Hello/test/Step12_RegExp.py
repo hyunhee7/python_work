@@ -19,8 +19,9 @@ print "bool(result):", bool(result)
 print "bool(result2):", bool(result2)
 
 # 검증할 정규 표현식
+myStr="who is who"
 reg1="^who"
-reg2="^Who"
+reg2="^who is"
 
 # 검증 결과를 bool type 으로 받아보기
 result4 = bool(re.search(reg1, myStr))

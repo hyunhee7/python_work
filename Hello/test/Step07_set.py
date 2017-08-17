@@ -29,7 +29,7 @@ set2={60, 70, 80, 90, 100}
 unionResult = set1.union(set2)
 
 print "set1 union set2 : ",unionResult
-
+print type(unionResult)
 # 두 set 간의 교집합
 intersectionResult = set1.intersection(set2)
 print "set1 intersection set2 :", intersectionResult

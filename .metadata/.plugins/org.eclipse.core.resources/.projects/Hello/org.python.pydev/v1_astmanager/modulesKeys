@@ -39,5 +39,10 @@ test.Step19_DB_SELECT|C:\ncs03\python_work\Hello\test\Step19_DB_SELECT.py
 test.Step19_DB_SELECT2|C:\ncs03\python_work\Hello\test\Step19_DB_SELECT2.py
 test.Step19_DB_SELECT3|C:\ncs03\python_work\Hello\test\Step19_DB_SELECT3.py
 test.Step19_DB_UPDATE|C:\ncs03\python_work\Hello\test\Step19_DB_UPDATE.py
+test.Step20_wx|C:\ncs03\python_work\Hello\test\Step20_wx.py
+test.Step20_wx2|C:\ncs03\python_work\Hello\test\Step20_wx2.py
+test.Step20_wx3|C:\ncs03\python_work\Hello\test\Step20_wx3.py
+test.Step20_wx4|C:\ncs03\python_work\Hello\test\Step20_wx4.py
+test.Step21_Sample|C:\ncs03\python_work\Hello\test\Step21_Sample.py
 test.YourModule|C:\ncs03\python_work\Hello\test\YourModule.py
 test.__init__|C:\ncs03\python_work\Hello\test\__init__.py

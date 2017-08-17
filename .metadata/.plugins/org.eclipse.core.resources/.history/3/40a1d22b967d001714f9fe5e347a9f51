@@ -1,8 +1,0 @@
-#-*- coding: utf-8 -*-
-
-def test(*args):
-    print args
-
-
-if __name__ == '__main__':
-    pass

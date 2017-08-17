@@ -6,6 +6,7 @@ myComment = "abcdeee"
 
 print "id :", id(myComment) # 아이디값 확인
 print u"길이:", len(myComment) #문자열의 길이 확인
+print type(len(myComment))
 print u"e 의 포함 횟수:", myComment.count("e")
 print u"시작하는 글자 확인:", myComment.startswith("a")
 
@@ -23,3 +24,5 @@ isEqual2=name1==name3
 print "name1 == name2 :", isEqual
 print "name1 == name3 :", isEqual2
 
+nums3=10, 20, 30
+print type(nums3)

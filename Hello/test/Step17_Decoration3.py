@@ -25,8 +25,8 @@ class HelloBye:
     def dance(self):
         print u"춤을 춰요"
 @HelloBye
-def test1():
-    print "test1() called"
+def test1(a, *args):
+    print a,args
 
 if __name__ == '__main__':
-    test1()
+    test1(1,"dkd",12)

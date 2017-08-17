@@ -1,7 +1,0 @@
-#-*- coding: utf-8 -*-
-
-'''
-    deco 패키지의 myDeco.py 파일에
-    HelloBye 데코레이터 클래스 정의하기
-'''
-    

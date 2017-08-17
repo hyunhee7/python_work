@@ -24,7 +24,7 @@ try:
     
     #파일을 열어서 문자열 추가하기
     letter2=codecs.open(letterPath, "a","utf-8") # 추가 모드
-    for i in range(10):
+    for i in range(5):
         letter2.write(u"\n안녕하세요")
     letter2.close()
     

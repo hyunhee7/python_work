@@ -65,6 +65,7 @@ print u"내림차순 정렬 후 numbers:", numbers
 # slice 연습
 numbers2=[1,2,3,4,5,6,7,8,9,10]
 
+print "hie" ,numbers2[-3:-1]
 print numbers2[0:2]
 print numbers2
 print numbers2[3:5]

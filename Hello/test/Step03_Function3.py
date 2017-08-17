@@ -8,13 +8,14 @@ def test(num=0):
     
 test()
 test(999)
-print"----------"
-def test2(num=0, name=u"아무게", isMan=True):
+print"00------------"
+def test2(num=0, name=u"아무게", isMan=True, addr=u"어디게"):
     print "num:", num
     print "name:", name
     print "isMan:", isMan
+    print "addr:", addr
     
-test2()
+test2(num=99,name=u"김구라")
 print"----------"
 test2(1,u"오",False)
 print"----------"

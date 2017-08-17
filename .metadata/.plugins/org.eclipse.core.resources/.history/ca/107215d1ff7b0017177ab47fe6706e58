@@ -1,8 +1,0 @@
-#-*- coding: utf-8 -*-
-
-# test1 이라는 이름의 빈 함수 만들기
-
-def test1():
-    pass
-
-print u"Step03_Function 모듈의 실행 순서가 종료 됩니다."
