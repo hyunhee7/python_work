@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>templates/index.html</title>
+<!-- static 폴더에 있는 css 로딩 시키기 -->
+<link rel="stylesheet" href="/static/css/bootstrap.css" />
+</head>
+<body>
+<h3>Hello Django!</h3>
+<ul>
+	<li><a href="hello">hello</a></li>
+	<li><a href="test">test</a></li>
+</ul>
+</body>
+</html>

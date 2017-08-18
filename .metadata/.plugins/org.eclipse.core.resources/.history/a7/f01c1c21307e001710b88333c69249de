@@ -1,6 +1,0 @@
-#-*- coding: utf-8 -*-
-import os
-
-print u"현재 작업 디렉트로:", os.getcwd()
-print u"현재 플렛폼의 파일 구분자:", os.sep
-

@@ -1,0 +1,16 @@
+MODULES_MANAGER_V2
+Django02_SqliteDB.__init__|C:\ncs03\python_work\Django02_SqliteDB\Django02_SqliteDB\__init__.py
+Django02_SqliteDB.settings|C:\ncs03\python_work\Django02_SqliteDB\Django02_SqliteDB\settings.py
+Django02_SqliteDB.urls|C:\ncs03\python_work\Django02_SqliteDB\Django02_SqliteDB\urls.py
+Django02_SqliteDB.views|C:\ncs03\python_work\Django02_SqliteDB\Django02_SqliteDB\views.py
+Django02_SqliteDB.wsgi|C:\ncs03\python_work\Django02_SqliteDB\Django02_SqliteDB\wsgi.py
+manage|C:\ncs03\python_work\Django02_SqliteDB\manage.py
+myapp.__init__|C:\ncs03\python_work\Django02_SqliteDB\myapp\__init__.py
+myapp.admin|C:\ncs03\python_work\Django02_SqliteDB\myapp\admin.py
+myapp.apps|C:\ncs03\python_work\Django02_SqliteDB\myapp\apps.py
+myapp.migrations.0001_initial|C:\ncs03\python_work\Django02_SqliteDB\myapp\migrations\0001_initial.py
+myapp.migrations.__init__|C:\ncs03\python_work\Django02_SqliteDB\myapp\migrations\__init__.py
+myapp.models|C:\ncs03\python_work\Django02_SqliteDB\myapp\models.py
+myapp.tests|C:\ncs03\python_work\Django02_SqliteDB\myapp\tests.py
+myapp.urls|C:\ncs03\python_work\Django02_SqliteDB\myapp\urls.py
+myapp.views|C:\ncs03\python_work\Django02_SqliteDB\myapp\views.py

@@ -1,11 +1,11 @@
 -- VERSION_4
 -- START DISKCACHE_2
 C:\ncs03\python_work\.metadata\.plugins\org.eclipse.core.resources\.projects\Django01\com.python.pydev.analysis\v2_indexcache
-Django01.urls|1502960701000000000|C:\ncs03\python_work\Django01\Django01\urls.py
-Django01.settings|1502960701000000000|C:\ncs03\python_work\Django01\Django01\settings.py
+Django01.urls|1503026072796794000|C:\ncs03\python_work\Django01\Django01\urls.py
+Django01.settings|1503018756420768000|C:\ncs03\python_work\Django01\Django01\settings.py
 Django01.wsgi|1502960701000000000|C:\ncs03\python_work\Django01\Django01\wsgi.py
 Django01.__init__|1502960701000000000|C:\ncs03\python_work\Django01\Django01\__init__.py
-Django01.views|1502960701000000000|C:\ncs03\python_work\Django01\Django01\views.py
+Django01.views|1503025952842933000|C:\ncs03\python_work\Django01\Django01\views.py
 manage|1502960701000000000|C:\ncs03\python_work\Django01\manage.py
 -- END DISKCACHE
 -- START DICTIONARY
@@ -16,22 +16,28 @@ manage|1502960701000000000|C:\ncs03\python_work\Django01\manage.py
 3=Django01.views
 -- END DICTIONARY
 -- START TREE 1
-19
+25
 all|1|ALLOWED_HOSTS!11@
 app|1|application!19@
 aut|1|AUTH_PASSWORD_VALIDATORS!11@
 bas|1|BASE_DIR!11@
 dat|1|DATABASES!11@
 deb|1|DEBUG!11@
+det|1|detail!26@
+fri|1|friends!26@
+gam|1|gamePlay!26@
 hel|1|hello!26@
 ind|1|index!26@
-ins|1|INSTALLED_APPS!11@
+ins|2|insert!26@INSTALLED_APPS!11@
 lan|1|LANGUAGE_CODE!11@
+mem|1|members!26@
 mid|1|MIDDLEWARE_CLASSES!11@
 roo|1|ROOT_URLCONF!11@
 sec|1|SECRET_KEY!11@
-sta|1|STATIC_URL!11@
+sho|1|show_member!26@
+sta|2|STATICFILES_DIRS!11@STATIC_URL!11@
 tem|2|tempDir!11@TEMPLATES!11@
+tes|1|test!26@
 tim|1|TIME_ZONE!11@
 url|1|urlpatterns!35@
 use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@

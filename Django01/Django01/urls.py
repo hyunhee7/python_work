@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 """Django01 URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -18,8 +19,27 @@ from django.contrib import admin
 from Django01 import views
 
 urlpatterns = [
+    # root (빈) 요청이 들어왔을 때 views.py 에 있는 index 메솓로
+    # 요청 처리하기
     url(r"^$", views.index),
-    url(r"^hello/$", views.hello)
+    # /hello/ 요청이 들어왔을 때 views.py에 있는 hello 메소드로
+    # 요청 처리하기
+    url(r"^hello/$", views.hello),
+    # /test/ 요청 처리
+    url(r"^test/$", views.test),
+    # /show_member
+    url(r"^show_member/$", views.show_member),
+    # /friends/ 요청처리
+    url(r"^friends/$", views.friends),
+    # /members/ 요청처리
+    url(r"^members/$", views.members),   
+    # /detail/ 요청처리
+    url(r"^detail/$", views.detail),       
+    # /insert/ post방식 요청처리
+    url(r"^insert/$", views.insert),     
+    # /game/play 요청처리
+    url(r"^game/play/", views.gamePlay),    
+    url(r"^game/stop/", views.gameStop),   
 ]
 
 

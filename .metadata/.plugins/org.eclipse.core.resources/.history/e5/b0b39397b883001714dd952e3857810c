@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>templates/show_member.html</title>
+</head>
+<body>
+<p>번호 : <strong>{{num}}</strong></p>
+<p>이름 : <strong>{{name}}</strong></p>
+<p>주소 : <strong>{{addr}}</strong></p>
+</body>
+</html>
