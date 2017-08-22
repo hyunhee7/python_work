@@ -1,0 +1,45 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\ncs03\python_work\.metadata\.plugins\org.eclipse.core.resources\.projects\Django05_Include\com.python.pydev.analysis\v2_indexcache
+Django05_Include.__init__|1503383868153191000|C:\ncs03\python_work\Django05_Include\Django05_Include\__init__.py
+Django05_Include.urls|1503386483785130000|C:\ncs03\python_work\Django05_Include\Django05_Include\urls.py
+Django05_Include.settings|1503383987646025000|C:\ncs03\python_work\Django05_Include\Django05_Include\settings.py
+Django05_Include.views|1503386164869034000|C:\ncs03\python_work\Django05_Include\Django05_Include\views.py
+Django05_Include.wsgi|1503383868152191000|C:\ncs03\python_work\Django05_Include\Django05_Include\wsgi.py
+manage|1503383868149191000|C:\ncs03\python_work\Django05_Include\manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=Django05_Include.urls
+1=Django05_Include.settings
+3=Django05_Include.views
+2=Django05_Include.wsgi
+-- END DICTIONARY
+-- START TREE 1
+22
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+cha|1|chat!26@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+gam|1|game!26@
+inc|1|include!26@
+ind|1|index!26@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|2|STATIC_URL!11@STATICFILES_DIRS!11@
+tem|2|tempDir!11@TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!35@
+use|3|USE_TZ!11@USE_I18N!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+¤Á¤ÌÄ¡|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

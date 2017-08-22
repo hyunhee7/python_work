@@ -1,0 +1,9 @@
+#-*- coding: utf-8 -*-
+from django.shortcuts import render
+
+def index(request):
+    return render(request, 'index.html')
+
+def json01(request):
+    # json 응답할 데이터
+    mem={'num':1, 'name':u'김구라', 'isMan':True}

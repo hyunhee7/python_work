@@ -1584,6 +1584,10 @@ mailcap|C:\Python27\lib\mailcap.py
 markupbase|C:\Python27\lib\markupbase.py
 marshal
 math
+mathfilters.__init__|C:\Python27\lib\site-packages\mathfilters\__init__.py
+mathfilters.templatetags.__init__|C:\Python27\lib\site-packages\mathfilters\templatetags\__init__.py
+mathfilters.templatetags.mathfilters|C:\Python27\lib\site-packages\mathfilters\templatetags\mathfilters.py
+mathfilters.tests|C:\Python27\lib\site-packages\mathfilters\tests.py
 md5|C:\Python27\lib\md5.py
 mhlib|C:\Python27\lib\mhlib.py
 mimetools|C:\Python27\lib\mimetools.py

@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>game.html</title>
+</head>
+<body>
+
+</body>
+</html>

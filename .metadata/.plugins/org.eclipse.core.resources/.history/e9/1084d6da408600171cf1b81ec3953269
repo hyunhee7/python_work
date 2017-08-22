@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>templates/member/list.html</title>
+<link rel="stylesheet" href="/static/css/bootstrap.css" />
+</head>
+<body>
+<h3>회원 목록 입니다.</h3>
+<table>
+	<thead>
+		<tr>
+			<th>번호</th>
+			<th>이름</th>
+			<th>주소</th>
+			<th>수정</th>
+			<th>삭제</th>
+		</tr>
+	</thead>
+	<tbody>
+	{% for item in member_list %}
+		<tr>
+			<td>{{item.num}}</td>
+			<td>{{item.name}}</td>
+			<td>{{item.addr}}</td>
+			<td><a href="/member/updateform?num={{item.num}}">수정</a></td>
+			<td><a href="/member/delete?num={{item.num}}">삭제</a></td>
+		</tr>
+	{% endfor %}	
+	</tbody>
+</table>
+
+{% if member_list.has_other_pages %}
+  <ul class="pagination">
+    {% if member_list.has_previous %}
+      <li><a href="?page={{ member_list.previous_page_number }}">&laquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&laquo;</span></li>
+    {% endif %}
+    {% for i in member_list.paginator.page_range %}
+      {% if member_list.number == i %}
+        <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
+      {% else %}
+        <li><a href="?page={{ i }}">{{ i }}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% if member_list.has_next %}
+      <li><a href="?page={{ users.next_page_number }}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&raquo;</span></li>
+    {% endif %}
+  </ul>
+{% endif %}
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Django05_Include/templates/fragment/navbar.html&apos; to &apos;nav.html&apos;" description="Rename resource &apos;navbar.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="templates/fragment/navbar.html" name="nav.html" stamp="1503386225868" updateReferences="true"/>
+</session>

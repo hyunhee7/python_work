@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>includeTest.html</title>
+</head>
+<body>
+{% include 'fragment/nav.html' %}
+<h3>include 테스트</h3>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>chat.html{% block content %}{% endblock %}</title>
+</head>
+<body>
+{% block content %}
+	<h3>chat 페이지 입니다.</h3>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+	Sint repudiandae aperiam est incidunt quasi sapiente. 
+	Facilis nam iusto aspernatur incidunt vel quibusdam vero 
+	ipsum animi accusamus libero ea quasi ad?</p>
+{% endblock %}
+</body>
+</html>

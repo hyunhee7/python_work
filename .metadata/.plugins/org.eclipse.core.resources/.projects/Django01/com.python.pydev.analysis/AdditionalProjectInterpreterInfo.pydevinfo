@@ -1,11 +1,11 @@
 -- VERSION_4
 -- START DISKCACHE_2
 C:\ncs03\python_work\.metadata\.plugins\org.eclipse.core.resources\.projects\Django01\com.python.pydev.analysis\v2_indexcache
-Django01.urls|1503026072796794000|C:\ncs03\python_work\Django01\Django01\urls.py
+Django01.urls|1503026353703861000|C:\ncs03\python_work\Django01\Django01\urls.py
 Django01.settings|1503018756420768000|C:\ncs03\python_work\Django01\Django01\settings.py
 Django01.wsgi|1502960701000000000|C:\ncs03\python_work\Django01\Django01\wsgi.py
 Django01.__init__|1502960701000000000|C:\ncs03\python_work\Django01\Django01\__init__.py
-Django01.views|1503025952842933000|C:\ncs03\python_work\Django01\Django01\views.py
+Django01.views|1503026251616022000|C:\ncs03\python_work\Django01\Django01\views.py
 manage|1502960701000000000|C:\ncs03\python_work\Django01\manage.py
 -- END DISKCACHE
 -- START DICTIONARY
@@ -25,7 +25,7 @@ dat|1|DATABASES!11@
 deb|1|DEBUG!11@
 det|1|detail!26@
 fri|1|friends!26@
-gam|1|gamePlay!26@
+gam|2|gameStop!26@gamePlay!26@
 hel|1|hello!26@
 ind|1|index!26@
 ins|2|insert!26@INSTALLED_APPS!11@

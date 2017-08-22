@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>templates/base.html</title>
+<link rel="stylesheet" href="/static/css/bootstrap.css" />
+<style>
+	p{
+		color: blue;
+	}
+</style>
+</head>
+<body>
+<div class="navbar navbar-inverse"></div>
+<div class="container">
+	{% block content %}
+	{% endblock %}
+</div>
+</body>
+</html>

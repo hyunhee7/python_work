@@ -1,0 +1,72 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\ncs03\python_work\.metadata\.plugins\org.eclipse.core.resources\.projects\Django03_CRUD\com.python.pydev.analysis\v2_indexcache
+Django03_CRUD.urls|1503281656000000000|C:\ncs03\python_work\Django03_CRUD\Django03_CRUD\urls.py
+member.apps|1503278749000000000|C:\ncs03\python_work\Django03_CRUD\member\apps.py
+member.migrations.__init__|1503278749000000000|C:\ncs03\python_work\Django03_CRUD\member\migrations\__init__.py
+Django03_CRUD.views|1503280215000000000|C:\ncs03\python_work\Django03_CRUD\Django03_CRUD\views.py
+Django03_CRUD.__init__|1503278748000000000|C:\ncs03\python_work\Django03_CRUD\Django03_CRUD\__init__.py
+member.admin|1503278749000000000|C:\ncs03\python_work\Django03_CRUD\member\admin.py
+member.migrations.0001_initial|1503278749000000000|C:\ncs03\python_work\Django03_CRUD\member\migrations\0001_initial.py
+member.tests|1503278749000000000|C:\ncs03\python_work\Django03_CRUD\member\tests.py
+manage|1503278748000000000|C:\ncs03\python_work\Django03_CRUD\manage.py
+member.models|1503278749000000000|C:\ncs03\python_work\Django03_CRUD\member\models.py
+member.urls|1503281656000000000|C:\ncs03\python_work\Django03_CRUD\member\urls.py
+member.__init__|1503278748000000000|C:\ncs03\python_work\Django03_CRUD\member\__init__.py
+member.views|1503299781659819000|C:\ncs03\python_work\Django03_CRUD\member\views.py
+Django03_CRUD.settings|1503301979954512000|C:\ncs03\python_work\Django03_CRUD\Django03_CRUD\settings.py
+Django03_CRUD.wsgi|1503278748000000000|C:\ncs03\python_work\Django03_CRUD\Django03_CRUD\wsgi.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+9=Django03_CRUD.urls
+7=member.apps
+12=Migration
+4=Django03_CRUD.views
+6=member.admin
+8=member.migrations.0001_initial
+13=MemberAdmin
+5=member.models
+10=member.urls
+3=member.views
+11=Member
+1=Django03_CRUD.settings
+14=MemberConfig
+2=Django03_CRUD.wsgi
+-- END DICTIONARY
+-- START TREE 1
+23
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+del|1|delete!26@
+ind|1|index!34@
+ins|3|insertform!26@insert!26@INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+lis|1|list!26@
+mem|3|Member!41@MemberAdmin!49@MemberConfig!57@
+mid|1|MIDDLEWARE_CLASSES!11@
+mig|1|Migration!65@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|2|STATICFILES_DIRS!11@STATIC_URL!11@
+tem|2|tempDir!11@TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+upd|2|update!26@updateform!26@
+url|2|urlpatterns!75@urlpatterns!83@
+use|3|USE_TZ!11@USE_I18N!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+7
+add|1|addr!11&43@
+dep|1|dependencies!12&67@
+ini|1|initial!12&67@
+lis|1|list_display!13&51@
+nam|2|name!11&43@name!14&59@
+num|1|num!11&43@
+ope|1|operations!12&67@
+-- END TREE

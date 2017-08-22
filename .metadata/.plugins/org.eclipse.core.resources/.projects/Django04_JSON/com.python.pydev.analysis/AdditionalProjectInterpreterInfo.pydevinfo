@@ -1,0 +1,42 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\ncs03\python_work\.metadata\.plugins\org.eclipse.core.resources\.projects\Django04_JSON\com.python.pydev.analysis\v2_indexcache
+Django04_JSON.wsgi|1503380492981142000|C:\ncs03\python_work\Django04_JSON\Django04_JSON\wsgi.py
+Django04_JSON.urls|1503381488449079000|C:\ncs03\python_work\Django04_JSON\Django04_JSON\urls.py
+Django04_JSON.settings|1503380905099714000|C:\ncs03\python_work\Django04_JSON\Django04_JSON\settings.py
+Django04_JSON.__init__|1503380492982142000|C:\ncs03\python_work\Django04_JSON\Django04_JSON\__init__.py
+manage|1503380492968141000|C:\ncs03\python_work\Django04_JSON\manage.py
+Django04_JSON.views|1503382346826176000|C:\ncs03\python_work\Django04_JSON\Django04_JSON\views.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=Django04_JSON.wsgi
+4=Django04_JSON.urls
+1=Django04_JSON.settings
+3=Django04_JSON.views
+-- END DICTIONARY
+-- START TREE 1
+19
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ind|1|index!26@
+ins|1|INSTALLED_APPS!11@
+jso|3|json03!26@json01!26@json02!26@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|2|STATIC_URL!11@STATICFILES_DIRS!11@
+tem|2|tempDir!11@TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!35@
+use|3|USE_L10N!11@USE_TZ!11@USE_I18N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>index.html</title>
+</head>
+<body>
+<h3>인덱스 페이지입니다.</h3>
+<ul>
+	<li><a href="/json01">json 이용하기</a></li>
+	<li><a href="/json02">json 이용하기2</a></li>
+</ul>
+<button>ajax 테스트</button>
+<script src="/static/js/jquery-3.2.0.js"></script>
+<script>
+
+</script>
+</body>
+</html>

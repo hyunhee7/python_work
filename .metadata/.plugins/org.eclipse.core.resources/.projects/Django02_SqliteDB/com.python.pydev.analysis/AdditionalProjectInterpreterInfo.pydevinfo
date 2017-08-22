@@ -1,6 +1,7 @@
 -- VERSION_4
 -- START DISKCACHE_2
 C:\ncs03\python_work\.metadata\.plugins\org.eclipse.core.resources\.projects\Django02_SqliteDB\com.python.pydev.analysis\v2_indexcache
+myapp.views|1503042013790938000|C:\ncs03\python_work\Django02_SqliteDB\myapp\views.py
 myapp.migrations.__init__|1503037020675623000|C:\ncs03\python_work\Django02_SqliteDB\myapp\migrations\__init__.py
 myapp.models|1503039466408236000|C:\ncs03\python_work\Django02_SqliteDB\myapp\models.py
 Django02_SqliteDB.__init__|1503035092154862000|C:\ncs03\python_work\Django02_SqliteDB\Django02_SqliteDB\__init__.py
@@ -17,19 +18,20 @@ myapp.__init__|1503037020675623000|C:\ncs03\python_work\Django02_SqliteDB\myapp\
 Django02_SqliteDB.wsgi|1503035092153862000|C:\ncs03\python_work\Django02_SqliteDB\Django02_SqliteDB\wsgi.py
 -- END DISKCACHE
 -- START DICTIONARY
-13
-10=Message
-11=Migration
-13=MyappConfig
-5=myapp.models
+14
+3=myapp.views
+11=Message
+12=Migration
+14=MyappConfig
+6=myapp.models
 1=Django02_SqliteDB.settings
-4=myapp.admin
-6=myapp.migrations.0001_initial
-7=myapp.apps
-3=Django02_SqliteDB.views
-9=Django02_SqliteDB.urls
-8=myapp.urls
-12=MessageAdmin
+5=myapp.admin
+7=myapp.migrations.0001_initial
+8=myapp.apps
+4=Django02_SqliteDB.views
+10=Django02_SqliteDB.urls
+9=myapp.urls
+13=MessageAdmin
 2=Django02_SqliteDB.wsgi
 -- END DICTIONARY
 -- START TREE 1
@@ -40,31 +42,31 @@ aut|1|AUTH_PASSWORD_VALIDATORS!11@
 bas|1|BASE_DIR!11@
 dat|1|DATABASES!11@
 deb|1|DEBUG!11@
-hel|0|
-ind|1|index!26@
+hel|1|hello!26@
+ind|1|index!34@
 ins|1|INSTALLED_APPS!11@
 lan|1|LANGUAGE_CODE!11@
-lis|0|
-mes|2|MessageAdmin!33@Message!41@
+lis|1|list!26@
+mes|2|MessageAdmin!41@Message!49@
 mid|1|MIDDLEWARE_CLASSES!11@
-mig|1|Migration!49@
-mya|1|MyappConfig!57@
+mig|1|Migration!57@
+mya|1|MyappConfig!65@
 roo|1|ROOT_URLCONF!11@
 sec|1|SECRET_KEY!11@
 sta|2|STATICFILES_DIRS!11@STATIC_URL!11@
 tem|2|tempDir!11@TEMPLATES!11@
 tim|1|TIME_ZONE!11@
-url|2|urlpatterns!67@urlpatterns!75@
-use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+url|2|urlpatterns!75@urlpatterns!83@
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
 wsg|1|WSGI_APPLICATION!11@
 -- END TREE
 -- START TREE 2
 7
-con|1|content!10&43@
-dep|1|dependencies!11&51@
-ini|1|initial!11&51@
-lis|1|list_display!12&35@
-nam|1|name!13&59@
-ope|1|operations!11&51@
-reg|1|regdate!10&43@
+con|1|content!11&51@
+dep|1|dependencies!12&59@
+ini|1|initial!12&59@
+lis|1|list_display!13&43@
+nam|1|name!14&67@
+ope|1|operations!12&59@
+reg|1|regdate!11&51@
 -- END TREE

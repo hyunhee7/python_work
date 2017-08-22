@@ -1,0 +1,23 @@
+from django.shortcuts import render
+from member.models import Member
+
+# Create your views here.
+
+def list(request):
+    member_list=Member.objects.all()
+
+def insertform(request):
+    pass
+
+def insert(request):
+    pass
+
+def delete(request):
+    pass
+
+def updateform(request):
+    pass
+
+def update(request):
+    pass
+

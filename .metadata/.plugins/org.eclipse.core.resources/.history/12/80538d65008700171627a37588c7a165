@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>index.html</title>
+</head>
+<body>
+<h3>인덱스 페이지입니다.</h3>
+<ul>
+	<li><a href="/json01">json 이용하기</a></li>
+	<li><a href="/json02">json 이용하기2</a></li>
+</ul>
+<button id="one">ajax 테스트1(GET)</button>
+<button id="two">ajax 테스트2(POST)</button>
+<script src="/static/js/jquery-3.2.0.js"></script>
+<script>
+	$("#one").click(function(){
+		$.ajax({
+			url:"/json01/",
+			method:"get",
+			success:function(data){
+				console.log(data);
+			}
+		});
+	});
+	$("#one").click(function(){
+		$.ajax({
+			url:"/json01/",
+			method:"get",
+			success:function(data){
+				console.log(data);
+			}
+		});
+	});	
+</script>
+</body>
+</html>
